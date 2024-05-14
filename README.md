@@ -1,8 +1,8 @@
 # Demo
 
 Some description.
-Oops! I deleted a line here!
+Oops! I deleted a line here. Such a shame right?
 
 ## Subheader
 
-Watch tutorial!
+Watch tutorial... Haha!
